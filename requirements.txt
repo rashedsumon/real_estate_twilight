@@ -1,0 +1,13 @@
+streamlit
+torch
+torchvision
+kagglehub
+transformers
+diffusers
+opencv-python
+Pillow
+numpy
+scikit-image
+matplotlib
+tqdm
+albumentations
