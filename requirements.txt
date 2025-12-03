@@ -4,7 +4,7 @@ torchvision
 kagglehub
 transformers
 diffusers
-opencv-python
+opencv-python-headless
 Pillow
 numpy
 scikit-image
